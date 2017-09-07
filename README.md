@@ -18,6 +18,9 @@
 ## Workshop 5: Deploying a Web Application
 * Use the website from [Github](https://github.com/digitalthailand/simple-website)
 
+## Workshop 6: Traffic Manager
+* Follow instruction in [Exercise 4: Implementing Traffic Manager](Labs/LAB_05.md)
+
 ## Useful Links
 * [How to register for a Free Account - http://bit.ly/2hNfJA2](http://bit.ly/2hNfJA2)
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)
