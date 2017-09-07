@@ -15,6 +15,9 @@
 ## Workshop 4: Lab B: Deploying Azure Resource Manager virtual machines by using Azure Resource Manager templates
 * Follow instruction in [Lab B: Deploying Azure Resource Manager virtual machines by using Azure Resource Manager templates](Labs/LAB_03.md)
 
+## Workshop 5: Deploying a Web Application
+* Use the website from [Github](https://github.com/digitalthailand/simple-website)
+
 ## Useful Links
 * [How to register for a Free Account - http://bit.ly/2hNfJA2](http://bit.ly/2hNfJA2)
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)
