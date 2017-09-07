@@ -6,6 +6,15 @@
 ## Workshop 1: Managing Azure Services
 * Visit the website [http://azure.com](http://azure.com)
 
+## Workshop 2: Using Azure PowerShell
+* Follow instruction in [Labs/LAB_01.md](Lab: Managing Microsoft Azure / Exercise 3: Using Azure PowerShell)
+
+## Workshop 3: Creating virtual machines by using the Azure portal and Azure PowerShell
+* Follow instruction in [Labs/LAB_03.md](Lab A: Creating Azure virtual machines)
+
+## Workshop 4: Lab B: Deploying Azure Resource Manager virtual machines by using Azure Resource Manager templates
+* Follow instruction in [Labs/LAB_03.md](Lab B: Deploying Azure Resource Manager virtual machines by using Azure Resource Manager templates)
+
 ## Useful Links
 * [How to register for a Free Account - http://bit.ly/2hNfJA2](http://bit.ly/2hNfJA2)
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)

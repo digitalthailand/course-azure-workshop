@@ -150,15 +150,6 @@ What storage related differences did you notice when you created a virtual machi
   
  Estimated Time: 25 minutes
 
- Virtual machine: **20533C-MIA-CL1**
-
- User name: **Student**
-
- Password: **Pa55w.rd**
-
- The virtual machine should be running from the previous lab.
-
-
 ## Exercise 1: Using Visual Studio and an Azure Resource Manager template to deploy Azure Resource Manager virtual machines
   
 ### Scenario
