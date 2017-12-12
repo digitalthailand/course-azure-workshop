@@ -24,3 +24,4 @@
 ## Useful Links
 * [How to register for a Free Account - http://bit.ly/2hNfJA2](http://bit.ly/2hNfJA2)
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)
+* [Azure Powershell](https://docs.microsoft.com/en-us/powershell/azure/overview)
