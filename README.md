@@ -18,7 +18,10 @@
 ## Workshop 5: Deploying a Web Application
 * Use the website from [Github](https://github.com/digitalthailand/simple-website)
 
-## Workshop 6:
+## Workshop 6.1: IoT and Web App
+* [Online Raspberry Pi Simulator](https://tlaothong.gitbooks.io/azure-iot-workshop/content/iot-hub-raspberry-pi-web-simulator-get-started.html)
+
+## Workshop 6.2: IoT and Web App
 * [IoT Visualization using Web App](https://tlaothong.gitbooks.io/azure-iot-workshop/content/iot-hub-live-data-visualization-in-web-apps.html)
 
 ## Workshop 7: Traffic Manager
