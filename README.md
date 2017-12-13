@@ -18,7 +18,10 @@
 ## Workshop 5: Deploying a Web Application
 * Use the website from [Github](https://github.com/digitalthailand/simple-website)
 
-## Workshop 6: Traffic Manager
+## Workshop 6:
+* [IoT Visualization using Web App](https://tlaothong.gitbooks.io/azure-iot-workshop/content/iot-hub-live-data-visualization-in-web-apps.html)
+
+## Workshop 7: Traffic Manager
 * Follow instruction in [Exercise 4: Implementing Traffic Manager](Labs/LAB_05.md)
 
 ## Useful Links
